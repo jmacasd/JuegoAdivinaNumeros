@@ -1,0 +1,4 @@
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\x64\Release\JuegoAdivinaNumeros.exe
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\x64\Release\JuegoAdivinaNumeros.pdb
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\x64\Release\JuegoAdivinaNumeros.exe
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\x64\Release\JuegoAdivinaNumeros.pdb

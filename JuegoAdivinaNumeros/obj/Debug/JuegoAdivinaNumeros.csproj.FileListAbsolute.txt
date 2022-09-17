@@ -1,0 +1,13 @@
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\Debug\JuegoAdivinaNumeros.exe
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\Debug\JuegoAdivinaNumeros.pdb
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.csprojResolveAssemblyReference.cache
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.exe
+G:\Desarrollo\Visual Studio\Visual Studio 2017\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.pdb
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\Debug\JuegoAdivinaNumeros.exe.config
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\Debug\JuegoAdivinaNumeros.exe
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\bin\Debug\JuegoAdivinaNumeros.pdb
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.csproj.AssemblyReference.cache
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.exe
+C:\Desarrollo\Desarrollo\Visual Studio\Legacy\Projects\JuegoAdivinaNumeros\JuegoAdivinaNumeros\obj\Debug\JuegoAdivinaNumeros.pdb
